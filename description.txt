@@ -1,0 +1,9 @@
+REQUIRES SHADERLIB!
+
+Allows equipping most hair dyes like armor dye.
+Keep in mind that not all act exactly the same.
+
+Twilight and team hair dyes already have a normal counterpart.
+
+Latest Update (2.0):
+  - Items removed; equip hair dye directly
