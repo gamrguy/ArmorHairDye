@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.DataStructures;
 using Terraria.ID;
-using ShaderLib.Shaders;
+using ShaderLib;
 
 namespace ArmorHairDye.Shaders
 {
